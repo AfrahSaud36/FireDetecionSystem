@@ -16,6 +16,8 @@ A Drone Solar Powered Fire Detection System is a groundbreaking solution that co
 <img width="646" alt="3D_Drone" src="https://github.com/AfrahSaud36/FireDetecionSystem/assets/138797663/d3a70cef-c3ca-4c4b-976a-a3dde3bc8ef2">
 
 ```python
+
+
 import cv2
 import numpy as np
 import pywhatkit as kit
