@@ -1,4 +1,4 @@
-# Fire Detection System
+# Fire Detection System "NASA Space Apps Hackathon"
 
 A Drone Solar Powered Fire Detection System is a groundbreaking solution that combines cutting-edge technology, sustainable energy, and Python programming to revolutionize early fire detection and intervention. This system employs a drone as its primary vehicle, seamlessly integrating a high-resolution webcam, solar panels, and advanced Python algorithms to provide intelligent and eco-friendly fire prevention and response.
 
